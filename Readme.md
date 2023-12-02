@@ -2,3 +2,8 @@
 
 This is an intro to github video.
 
+yes, it is.
+
+in fact i am learning how to use the command line
+
+
